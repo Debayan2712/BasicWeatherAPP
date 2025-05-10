@@ -1,6 +1,6 @@
 # 🌦️ MyWeatherApp
 
-**MyWeatherApp** is a modern Android application that allows users to fetch and view real-time weather information based on their location or search input. It integrates a weather API to display temperature, humidity, weather conditions, and local time. This project is built using **Kotlin** and follows Android best practices.
+**MyWeatherApp** is a modern Android application that allows users to fetch and view real-time weather information based on their location or search input. It integrates a weather API to display temperature, humidity, weather conditions, and local time. This project is built using **java** and follows Android best practices.
 
 ---
 
