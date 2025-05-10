@@ -9,6 +9,7 @@
 - 📍 Get current weather details for your location
 - 🔍 Search by city name
 - 🌡️ Displays temperature, humidity, and weather description
+- API : OpenweatherMap
 - 🔐 Secure API key integration using `local.properties`
 - 📱 Clean and responsive UI
 
